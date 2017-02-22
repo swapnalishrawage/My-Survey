@@ -1,0 +1,27 @@
+PODS:
+  - Alamofire (3.2.1)
+  - AlamofireImage (2.3.1):
+    - Alamofire (~> 3.2)
+  - Charts (2.1.6)
+  - DLRadioButton (1.4.9)
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.2.1)
+  - AlamofireImage (~> 2.0)
+  - Charts (~> 2.1.0)
+  - DLRadioButton (~> 1.4)
+  - FMDB (~> 2.0)
+
+SPEC CHECKSUMS:
+  Alamofire: f11d8624a05f5d39e0c99309b3e600a3ba64298a
+  AlamofireImage: e52336282757bbe1644f075d6cb85f19c891f939
+  Charts: 5e1e5ac23898e5b09d226a2fc3e9d86bc281937e
+  DLRadioButton: 7bb8a6e3768b572469ace553391ab4d2af6f9c19
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+
+PODFILE CHECKSUM: 283c6269a15e6703039b51a00636d78d40db6140
+
+COCOAPODS: 1.1.1
